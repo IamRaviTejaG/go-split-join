@@ -49,8 +49,5 @@ exit status 2
 __NOTE__: Please take special care of the `GOROOT` and `GOPATH` variables. In case you get errors, simply create a new folder named `gosj` in the `GOPATH` and copy `main.go` file & the `sj` folder into the `gosj` directory. This should get the utility working fine.
 
 ---
-#### Find the Python implementation of the file splitting and joining utility here: https://github.com/ImRaviTejaG/pysj
----
-### _In case you face any trouble(s), feel free to open an issue._
-
-__© 2019 Ravi Teja Gannavarapu__
+#### Find the Python implementation of the file splitting and joining utility here: https://github.com/ImRaviTejaG/pysj.
+#### _In case you face trouble, please feel free to open an issue._
